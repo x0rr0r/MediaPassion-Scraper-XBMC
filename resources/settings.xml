@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+  <category label="$LOCALIZE[128]">
+    <setting type="lsep" label="30030"/>
+    <setting id="token" type="text" label="Token" default="" visible="false" />
+    <setting id="tokenb64" type="text" label="Token b64" default="" visible="false" />
+	<setting id="apikey" type="text" label="Api Key" default="4a3f1c799c720534cb4465697e7cd510" visible="false" />
+    <setting id="username" type="action" label="30003" action="RunScript($CWD/resources/lib/useraccount.py,username)" default="" />
+    <setting id="password" type="action" label="30004" action="RunScript($CWD/resources/lib/useraccount.py,password)" default="" option="hidden" enable="!eq(-1,)" />
+  </category>
+</settings>

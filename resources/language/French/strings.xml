@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <!-- strings 30000 thru 30999 reserved for Add-ons and Add-on settings -->
+  <string id="30000">Langue</string>
+  <string id="30001">Français</string>
+  <string id="30002">Anglais</string>
+  <string id="30003">Nom d'utilisateur</string>
+  <string id="30004">Mot de passe API</string>
+  <string id="30005">Crédits :</string>
+  <string id="30006">Inconnue</string>
+
+  <string id="30010">Notes</string>
+  <string id="30011">Ciné-Passion</string>
+  <string id="30012">Allociné</string>
+  <string id="30013">IMDB</string>
+  <string id="30014">Récupérer les Sagas</string>
+  <string id="30015">MPAA</string>
+  <string id="30016">Pays de la certification [COLOR=66FFFFFF][MPAA][/COLOR]</string>
+  <string id="30017">Récupération automatique du pays</string>
+
+  <string id="30020">Préférences</string>
+  <string id="30030">Compte Passion-XBMC</string>
+
+  <string id="30035">Mettre à jour les ID des films...</string>
+  <string id="30036">Mise à jour de tout les ID, temps %s</string>
+
+  <string id="30040">Ouvrir les paramètres</string>
+  <string id="30041">Exporter les vignettes et les fanarts</string>
+  <string id="30042">Exporter les vignettes acteur</string>
+  <string id="30043">Écraser les anciens fichiers</string>
+  <string id="30044">Exporter vers un seul fichier</string>
+  <string id="30045">Chemin de l'exportation</string>
+
+  <string id="30050">Site Web</string>
+  <string id="30051">Support Forum</string>
+  <string id="30052">[B]Cliquez ici pour le support[/B]</string>
+  <string id="30053">Participer</string>
+  <string id="30054">[B]Cliquez ici pour participer/visiter[/B]</string>
+  <string id="30055">Abonnements</string>
+  <string id="30056">[B]Prenez un abonnement pour obtenir des crédits[/B]</string>
+
+  <!-- strings 33000 thru 33999 reserved for common strings used in Add-ons -->
+  <string id="33000">Ciné-Passion Service</string>
+  <string id="33001">Ciné-Passion</string>
+
+  <string id="33005">Crédits :</string>
+  <string id="33006">Inconnue</string>
+  <string id="33007">Crédits Ciné-Passion</string>
+  <string id="33008">%s Dernière mise à jour - %s</string>
+  <string id="33009">Obtenir plus de crédits</string>
+  <string id="33010">Activer les notifications</string>
+  <string id="33011">Rafraîchir à tout(e) les</string>
+  <string id="33012">Désactiver</string>
+  <string id="33013">Démarrages d'XBMC</string>
+  <string id="33014">1 heure</string>
+  <string id="33015">6 heures</string>
+  <string id="33016">12 heures</string>
+  <string id="33017">18 heures</string>
+  <string id="33018">24 heures</string>
+  <string id="33019">Certifications</string>
+  <string id="33020">Récupération automatique du pays</string>
+  <string id="33021">Cookies</string>
+  <string id="33022">Supprimer les cookies au prochain redémarrage du service</string>
+  <string id="33023">Activer le service au démarrage d'XBMC</string>
+
+  <string id="33025">Ouvrir les paramètres</string>
+
+  <string id="33040">Veuillez saisir votre login Passion-XBMC</string>
+  <string id="33041">Veuillez saisir votre mot de passe</string>
+  <string id="33042">Identification incomplète</string>
+  <string id="33043">Identification annulée</string>
+
+  <string id="33051">Attention! Ciné-Passion Service</string>
+  <string id="33052">Pour bénéficier de ce service. Vous devez</string>
+  <string id="33053">posséder un compte sur passion-xbmc.org</string>
+  <string id="33054">Réglez votre login et pass pour vous identifiez.</string>
+  <string id="33055">Pour activer à nouveau ce service. Vous pouvez</string>
+  <string id="33056">le faire dans les settings du 'Service',</string>
+  <string id="33057">depuis le gestionnaire d'add-ons.</string>
+
+  <string id="33101">Salut! %s</string>
+  <string id="33102">Vous avez %s message(s) !</string>
+  <string id="33103">Crédits Ciné-Passion</string>
+  <string id="33104">Pays:</string>
+</strings>
