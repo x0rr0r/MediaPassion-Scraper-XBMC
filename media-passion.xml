@@ -21,7 +21,7 @@
 	<GetDetails clearbuffers="no" dest="3">
 		<RegExp input="$$5" output="&lt;details&gt;\1&lt;/details&gt;" dest="3">
 			<RegExp input="$$1" output="\1" dest="5">
-				<expression trim="1" noclean="1">XMLSchema&quot;&gt;(.*)&lt;/movie</expression>
+				<expression trim="1" noclean="1">movie&gt;(.*)&lt;/movie</expression>
 			</RegExp>
 			<expression noclean="1"/>
 		</RegExp>
